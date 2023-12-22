@@ -14,11 +14,11 @@
 
 ## Projects
 1. **Project Portfolio**
-   - Description: A showcase of my work during the program, highlighting the evolution of my coding skills.
+   - Description: A showcase of my work during the program, highlighting the evolution of my coding skills. Still a work in progress.
    - GitHub Repository: [Link to GitHub Repo](https://github.com/jyneto/1st-Website/tree/main)
 
 2. **Birthday Register**
-   - Description: A practical application using PHP and MySQL to manage tasks efficiently.
+   - Description: A practical application using PHP and MySQL. Still a work in progress.
    - GitHub Repository: [Link to GitHub Repo](https://github.com/yourusername/task-tracker) WOI
 
 ## Education
