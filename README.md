@@ -35,7 +35,7 @@
 - **Email:** jane_v@live.se
 
 ## Interests
-Beyond coding, I enjoy fixing broken things, easy carpentry and painting rooms and houses. I believe in continuous learning and am eager to explore new opportunities in the vast world of web development.
+Beyond coding, I enjoy working fixing and working with my own hands, simple carpentry and painting rooms and houses. I believe in continuous learning and am eager to explore new opportunities in the vast world of development.
 
 Feel free to connect if you have any questions or if you share similar interests. Looking forward to the next phase of this coding journey!
 
