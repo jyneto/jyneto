@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Jane </h1>
 <h3 align="center">I am a life long learner who recently completed a programming program from a community college in Sweden, where I dived into the fundementals of HTML, CSS, C#, JavaScript, jQuery, PHP, and MySQL. Transitioning from being an industrial painter to coding  is an exciting journey</h3>
 
-- 🌱 I’m currently focusing on **JavaScript**
+- 🌱 I’m currently focusing on **Fullstack.Net**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
