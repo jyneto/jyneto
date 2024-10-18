@@ -26,9 +26,6 @@
   - *Institution:* [Östersund Learning Center]
   - *Duration:* [2023-03-20] - [2023-11-17]
 
-## Certifications
-- *Programming Fundamentals Certification*
-
 ## Contact Information
 - **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/jane-toledo/)
 - **GitHub:** [Your GitHub Profile](https://github.com/jyneto)
