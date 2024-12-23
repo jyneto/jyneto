@@ -29,7 +29,7 @@
 ## Contact Information
 - **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/jane-toledo/)
 - **GitHub:** [Your GitHub Profile](https://github.com/jyneto)
-- **Email:** jane_v@live.se
+- **Email:** janetoledo25@gmail.com
 
 ## Interests
 Beyond coding, I enjoy working fixing and working with my own hands, simple carpentry and painting rooms and houses. I believe in continuous learning and am eager to explore new opportunities in the vast world of development.
