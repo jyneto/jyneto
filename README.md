@@ -27,8 +27,8 @@
   - *Duration:* [2023-03-20] - [2023-11-17]
 
 ## Contact Information
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/jane-toledo/)
-- **GitHub:** [Your GitHub Profile](https://github.com/jyneto)
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/jane-toledo/)
+- **GitHub:** [GitHub Profile](https://github.com/jyneto)
 - **Email:** janetoledo25@gmail.com
 
 ## Interests
