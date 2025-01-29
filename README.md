@@ -1,6 +1,6 @@
 <img src = "https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif"  alt="banner" width="100%" height="20%"/> </a> 
 <h1 align="center">Hi 👋, I'm Jane </h1>
-<h3 align="center">I am a life long learner who recently enrolled on a Fullstack .NET Developer program in Sweden. Transitioning from being an industrial painter to coding  is an exciting journey.</h3>
+<h3 align="center">I´m a life long learner who recently enrolled on a Fullstack .NET Developer program in Sweden. Transitioning from being an industrial painter to coding  is an exciting journey.</h3>
 
 - 🌱 I’m currently focusing on **Fullstack.NET**
 
