@@ -12,17 +12,12 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p> <img src="https://github.com/vscode-icons/vscode-icons/blob/master/images/logo.svg" alt="php" width="40" height="40"/> </a> </p>
 
-## Projects
-1. **Project Portfolio**
-   - Description: A showcase of my work during the program, highlighting the evolution of my coding skills. Still a work in progress.
-   - GitHub Repository: [Link to GitHub Repo](https://github.com/jyneto/1st-Website/tree/main)
-
-2. **Birthday Register**
-   - Description: A practical application using PHP and MySQL. Still a work in progress.
-   - GitHub Repository: [Link to GitHub Repo](https://github.com/yourusername/task-tracker) WOI
 
 ## Education
-- **Programming Municipal Adult Education/Community College/GED **
+- **Ongoing - Higher Vocational Education**
+   - *Institution: Chas Acaademy*
+   - *Duration:* [2024-09-02] - [2026-06-30]
+- **Programming Municipal Adult Education/Community College**
   - *Institution:* [Östersund Learning Center]
   - *Duration:* [2023-03-20] - [2023-11-17]
 
